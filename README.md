@@ -53,6 +53,7 @@ Estou buscando oportunidades de estágio para atuar na área de **Análise de da
 
 
 📈 Estatísticas do github:
+
 <a href="https://github.com/Joao-Paulo-Brito">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&show_icons=true&theme=dark&include_commits=true"/>
 </a>
