@@ -47,9 +47,7 @@ Estou buscando oportunidades de estágio para atuar na área de **Análise de da
 📈 Estatísticas do github:
 
 ![Joao-Paulo-Brito's Stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![Joao-Paulo-Brito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Paulo-Brito&theme=vue-dark&hide_border=true)
-
 ![Joao-Paulo-Brito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
