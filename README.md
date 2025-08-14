@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o João Paulo</h1>
 <h3 align="center">Estudante de Ciência de Dados</h3>
 
-**`Futuro cientista de dados`**
 
 ## 💼 Objetivo
 Estou buscando oportunidades de estágio para atuar na área de **Análise de dados** e **Ciência de Dados**, aplicando meus conhecimento para transformar dados em informações valiosas.
