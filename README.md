@@ -32,8 +32,6 @@ Estou buscando oportunidades de estágio para atuar na área de **Análise de da
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
-
 ## 📌 Ferramentas
 
 <p>
@@ -55,10 +53,10 @@ Estou buscando oportunidades de estágio para atuar na área de **Análise de da
 
 
 📈 Estatísticas do github:
-<div align="center">
-  
-![Joao-Paulo-Brito's Stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Joao-Paulo-Brito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
-![Joao-Paulo-Brito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Paulo-Brito&theme=vue-dark&hide_border=true)
+<a href="https://github.com/Joao-Paulo-Brito">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&show_icons=true&theme=dark&include_commits=true"/>
+</a>
 
-</div>
+<a href="https://github.com/Joao-Paulo-Brito">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Brito&layout=compact&langs_count=8&theme=dark"/>
+</a>
