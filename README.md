@@ -1,9 +1,18 @@
-<h1 align="center">Olá, eu sou o João Paulo</h1>
-<h3 align="center">Estudante de Ciência de Dados</h3>
+<h1 align="center">👋Olá, eu sou o João Paulo</h1>
+<h3 align="center">📊Estudante de Ciência de Dados</h3>
 
 
 ## 💼 Objetivo
-Estou buscando oportunidades de estágio para atuar na área de **Análise de dados** e **Ciência de Dados**, aplicando meus conhecimento para transformar dados em informações valiosas.
+Estou buscando oportunidades de estágio para atuar na área de **Análise de dados** e **Ciência de Dados**, aplicando meus conhecimentos para transformar dados em informações valiosas.
+
+---
+
+## 🚀 Projetos Recentes
+- **📊 [Análise de Tempo de Tela – Python & SQL](https://github.com/Joao-Paulo-Brito/Projeto-ScreenTime)**  
+  *Análise de dados do uso diário de tela para identificar padrões de comportamento digital.*
+  
+- **📉 [Previsão de Score de Crédito – Machine Learning](https://github.com/Joao-Paulo-Brito/Projeto-Credit-Score)**  
+  *Modelo preditivo usando classificação supervisionada para avaliar risco de crédito.*
 
 ---
 
@@ -37,15 +46,12 @@ Estou buscando oportunidades de estágio para atuar na área de **Análise de da
 
 ---
 
-## 🚀 Projetos Recentes
-- **📊 [Análise de tempo de tela(Python e SQL)](https://github.com/Joao-Paulo-Brito/Projeto-ScreenTime)**
-- **📊 [Previsão de crédito(Machine Learning)](https://github.com/Joao-Paulo-Brito/Projeto-Credit-Score)**
-
----
 
 📈 Estatísticas do github:
-
-![Joao-Paulo-Brito's Stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Joao-Paulo-Brito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  
+![Joao-Paulo-Brito's Stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Joao-Paulo-Brito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo-Brito&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 ![Joao-Paulo-Brito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao-Paulo-Brito&theme=vue-dark&hide_border=true)
 
+</div>
